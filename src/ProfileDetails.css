@@ -1,0 +1,75 @@
+.details{
+    background-color: rgb(240, 227, 211);
+}
+th {
+    background-color: rgb(65, 206, 65);
+    font-size: 19px;
+    border: solid;
+    border-width: 1px;
+    padding: 11px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+td {
+    border: solid;
+    border-width: 1px;
+    padding: 4px;
+    padding-right: 6px;
+}
+.cd-search {
+    display: block;
+    margin-top: 22px;
+    margin-bottom: 26px;
+    margin-left:10px;
+    
+}
+
+.cd-search .input[type="text"] {
+    padding: 16px;
+    margin-left: -2px;
+    border-color: #61c364;
+    box-shadow: 24px;   
+    width: 154px;
+    color: blue;
+}
+.pageNumbers {
+    list-style: none;
+    display: flex;
+    margin-left: 700px;
+  }
+  
+  .pageNumbers li {
+    padding: 5px;
+    border: 1px solid #1e1b1b;;
+    cursor: pointer;
+  }
+  
+  .pageNumbers li.active {
+    background-color: white;
+    color: black;
+  }
+  
+  .pageNumbers li button {
+    background-color: transparent;
+    border: none;
+    color: #ad1f1f;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  .pageNumbers li button:hover {
+    background-color: white;
+    color: black;
+  }
+  .pageNumbers li button:focus {
+    outline: none;
+  }
+  
+  .loadmore {
+    padding: 1rem;
+    background-color: darkgray;
+    color: #a93939;
+    font-size: 1.2rem;
+    border: 1px solid white;
+    cursor: pointer;
+    margin-left:700px;
+}

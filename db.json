@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "id": 501,
+      "first_name": "we",
+      "last_name": "wqw",
+      "company_name": "wewe@gmail.com",
+      "city": "wdew",
+      "state": "wew",
+      "email": "fg",
+      "zip": 2334,
+      "web": "ghbg",
+      "age": 23
+    },
+    {
+      "id": 502,
+      "first_name": "ghg",
+      "last_name": "hgh",
+      "company_name": "hhg",
+      "city": "ghgh",
+      "state": "ghgh",
+      "email": "ghhg@gmail.com",
+      "zip": 2528,
+      "web": "hghghg",
+      "age": 45
+    },
+    {
+      "first_name": "test",
+      "last_name": "sf",
+      "company_name": "fd",
+      "city": "fdf",
+      "state": "fddf",
+      "email": "grg@gmail.com",
+      "zip": "223",
+      "web": "rer",
+      "age": "42",
+      "id": 503
+    },
+    {
+      "first_name": "edw",
+      "last_name": "dsff",
+      "company_name": "dfdf",
+      "city": "fef",
+      "state": "dff",
+      "email": "ffgfdg@gmail.com",
+      "zip": "435",
+      "web": "test",
+      "age": "66",
+      "id": 504
+    }
+  ]
+}
